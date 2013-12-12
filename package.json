@@ -1,0 +1,8 @@
+{
+  "name": "jos",
+  "version": "0.0.1",
+  "auther": "zju.hzj@gmail.com",
+  "dependencies": {
+    "restler": "2.0.1"
+  }
+}
