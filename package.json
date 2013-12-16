@@ -1,6 +1,7 @@
 {
   "name": "jos",
   "version": "0.0.1",
+  "description": "A node.js library for jos (JD-Open-SDK)",
   "auther": "zju.hzj@gmail.com",
   "dependencies": {
     "restler": "2.0.1"
